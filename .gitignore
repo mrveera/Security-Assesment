@@ -1,5 +1,7 @@
 data
 data.json
 lib/template.html
-lib/tempB.csv
+lib/tempA.tsv
 lib/tempQ.tsv
+accounts.json
+reports/
