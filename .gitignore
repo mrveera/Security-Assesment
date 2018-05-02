@@ -1,7 +1,1 @@
-data
-data.json
-lib/template.html
-lib/tempA.tsv
-lib/tempQ.tsv
-accounts.json
-reports/*.*
+reports/*.html
